@@ -11,4 +11,4 @@
 * **Core Pillars:** Highlights focusing on Keynotes, Practical Workshops, and Professional Networking.
 
 ## 🌐 Live Demo
-You can view the live site here: [DevConf 2026 Live Deployment]([https://github.io](https://nayeem0087.github.io/B14-A01-DevConf-2026/))
+You can view the live site here: [DevConf 2026 Live Deployment]([https://github.io](https://nayeem0087.github.io/B14-A01-DevConf-2026/)
